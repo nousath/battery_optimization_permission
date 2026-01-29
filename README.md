@@ -139,3 +139,13 @@ See `CHANGELOG.md` for release notes.
 ## License
 
 MIT
+
+---
+
+## ☕ Sponsor a cup of tea
+
+If this package saves you development time, consider supporting my work.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%98%95-blue?logo=githubsponsors)](https://github.com/sponsors/nousath)
+
+https://github.com/sponsors/nousath
