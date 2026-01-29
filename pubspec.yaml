@@ -1,0 +1,24 @@
+name: battery_optimization_permission
+description: Request and check Android battery optimization (Doze) ignore permission. Includes OEM helpers and settings fallbacks.
+version: 1.1.0
+homepage: https://nh97.co.in
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: in.co.nh97.battery_optimization_permission
+        pluginClass: BatteryOptimizationPermissionPlugin
