@@ -1,3 +1,6 @@
+## 1.1.2
+- Bumped flutter_lints from ^3.0.0 to ^6.0.0 in pubspec.yaml and updated related lock files. Also fixed a minor typo in the LICENSE file.
+
 ## 1.1.1
 - Improve README (documentation + usage flow)
 
